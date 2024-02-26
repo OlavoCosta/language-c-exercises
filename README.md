@@ -1,6 +1,4 @@
-## Linguagem C: Completa e Descomplicada - André Backes.
-
-## Exercícios propostos no livro.
+## Exercícios propostos do livro Linguagem C: Completa e Descomplicada - André Backes.
 
 ### Capítulo 2: Lendo e escrevendo nas variáveis
 - 2.1 Variáveis
@@ -57,3 +55,8 @@
 - 8.2 Uniões: union
 - 8.3 Enumerações: enum
 - 8.4 Comando typedef
+
+## Desafios de algoritmos em linguagem C.
+
+- Eletronicos
+- Jogo da velha
