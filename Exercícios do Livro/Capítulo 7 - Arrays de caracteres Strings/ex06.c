@@ -29,7 +29,7 @@ void realizaTratamentoString(text *p, char c){
         // Verifica e determina a quantidade de vogais encontradas
         char lowercaseChar = tolower(p->frase[i]);
         
-        if (strchr("aeiou", lowercaseChar) != NULL){
+        if(strchr("aeiou", lowercaseChar) != NULL){
             count += 1;
             // Realiza troca dos caracteres pelo caracter determinado
             p->frase[i] = c;
